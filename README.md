@@ -1,4 +1,4 @@
-# best-music-prompts-in-the-world-v1
+# best-music-prompts-in-the-world
 you already know
 
 G-Level Songwriting Instructions --- v2 Core Philosophy Write songs that rhyme, move, and mean something.
